@@ -1,6 +1,7 @@
 # kriptografi
 
 Nama    : Tiara Putri
+
 NIM     : 312210064
 
 ```
