@@ -123,7 +123,8 @@ if __name__ == "__main__":
     process_and_display(sentences, keyword)
 ```
 
-```Plaintext: GOOD BROOM SWEEP CLEAN
+```
+Plaintext: GOOD BROOM SWEEP CLEAN
 
 En: CMRCDFRWRAPYKWOWBPIOKYKY
 
